@@ -1,6 +1,8 @@
 # AI-Automated-Incident-Response-Orchestration
 detecting the suspicious attacks
-Problem 22: Incident response orchestration
+Problem = Incident response orchestration
+Incident response orchestration	Cybersecurity	Security operations center (SOC) teams	An agent that coordinates post-breach workflows: gathers logs, correlates alerts, isolates affected nodes, applies patches or mitigations per playbook, and updates ticketing systems.	High (reduces response time, damage)	High
+
 1.	Problem title: Automated cybersecurity incident response coordinator.
 2.	Industry: Cybersecurity/IT.
 3.	Detailed problem statement: When a cybersecurity incident occurs (malware outbreak, data breach), responders follow multi-step playbooks: contain, eradicate, recover. These steps involve multiple tools (antivirus, firewalls, SIEM) and teams (IT, legal). Coordination is complex; delays or missteps can worsen the breach. Manual orchestration (calling staff, running commands in sequence) is slow. The pain: extended breach times and inconsistent responses. Automated SOAR (Security Orchestration, Automation and Response) tools exist but typically require custom scripting. A need exists for an AI agent that can interpret incident context and drive the steps automatically.
